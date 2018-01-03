@@ -1,9 +1,3 @@
-<<<<<<< d6b1cb56962e1694ee47b0ea7c35bcfd21156086
-# angular-tour-of-heroes
-=======
-<<<<<<< d6b1cb56962e1694ee47b0ea7c35bcfd21156086
-# angular-tour-of-heroes
-=======
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
@@ -31,5 +25,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
->>>>>>> 初始化
->>>>>>> init commit
+
